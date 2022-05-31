@@ -2,5 +2,5 @@
 Сборник задач разного уровня
 
 git add . 
-git commit -m "рекурсия флатен" 
+git commit -m "сделать первый символ заглавным" 
 git push origin master
