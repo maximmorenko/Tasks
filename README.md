@@ -2,5 +2,5 @@
 Сборник задач разного уровня
 
 git add .
-git commit -m "проверка строки на наличие символов"
+git commit -m "три тестовые задачи от sysGears"
 git push origin master
