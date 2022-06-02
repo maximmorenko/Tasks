@@ -2,5 +2,5 @@
 Сборник задач разного уровня
 
 git add .
-git commit -m "три тестовые задачи от sysGears"
+git commit -m "режем строку под заданую длину"
 git push origin master

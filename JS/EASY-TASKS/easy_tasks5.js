@@ -12,3 +12,7 @@ function checkSpam(str) {
     return lowerStr.includes('viagra') || lowerStr.includes('xxx');
   }
 console.log(checkSpam('buy viagra now'));
+
+
+
+console.log(false != '0'); //false
