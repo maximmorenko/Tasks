@@ -18,3 +18,13 @@ function truncate (str, maxlength) {
 }
 let result = truncate("Вот, что мне хотелось бы сказать на эту тему:", 20);
 console.log(result);
+
+// задача 2
+// удаляем первый элемент из строки
+
+function truncate2 (str) {  
+        //return str.split('').splice(0, 20).join('');
+        return str.slice(1)
+}
+let result2 = truncate2("$123");
+console.log(result2);
