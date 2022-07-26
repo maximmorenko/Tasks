@@ -29,5 +29,5 @@ function spinalCase2(str) {
 }
 
 
-console.log(spinalCase('SpinalTap GfggkPeep_Lion'));
-console.log(spinalCase2('SpinalTap GfggkPeep_Lion'));
+// console.log(spinalCase('SpinalTap GfggkPeep_Lion'));
+// console.log(spinalCase2('SpinalTap GfggkPeep_Lion'));
