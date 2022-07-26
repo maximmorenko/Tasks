@@ -5,12 +5,12 @@
 // Not Jaden-Cased: "How can mirrors be real if our eyes aren't real"
 // Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 
-function toJadenCase (str) {
-    let array = str.toLowerCase().split(' ');
-    let arr = array.map((item) => item[0].toUpperCase() + item.slice(1))
-    return arr.join(' ');
-  }
-  console.log(toJadenCase("How can mirrors"));
+// function toJadenCase (str) {
+//     let array = str.toLowerCase().split(' ');
+//     let arr = array.map((item) => item[0].toUpperCase() + item.slice(1))
+//     return arr.join(' ');
+//   }
+//   console.log(toJadenCase("How can mirrors"));
 
 
 
